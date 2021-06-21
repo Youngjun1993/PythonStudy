@@ -198,7 +198,7 @@ print(python)
 # java를 잊어버렸어요
 java.remove("김태호")
 print(java)
-
+ 
 ### 자료구조의 변경
 menu = {"커피", "우유", "주스"}
 print(menu, type(menu))
